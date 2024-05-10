@@ -1,6 +1,6 @@
 {
   "LiteBuildConfig": {
-    "apps": ["lab"],
+    "apps": ["lab", "tree", "notebooks"],
     "contents": ["content"]
   }
 }
