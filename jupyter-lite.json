@@ -1,0 +1,10 @@
+{
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "appName": "MAT167",
+    "appUrl": "./lab",
+    "defaultKernelName": "python",
+    "contentsStorageName": "UCD MAT167",
+    "settingsStorageName": "UCD MAT167"
+  }
+}
